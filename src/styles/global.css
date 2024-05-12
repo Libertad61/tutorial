@@ -91,3 +91,6 @@ html.dark {
 .dark .nav-links a {
   color: #fff;
 }
+ul {
+  list-style-type: none;
+}
