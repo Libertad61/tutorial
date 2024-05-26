@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/upgrade": "^0.3.0",
-    "astro": "^4.8.2"
+    "astro": "^4.9.1"
   },
   "devDependencies": {
     "prettier-plugin-astro": "^0.13.0"
